@@ -9,8 +9,8 @@ const root = createRoot(document.getElementById('root'))
 
 root.render(
     <StrictMode>
-        <App basename='weather-app' />
+        <App />
     </StrictMode>
 )
 
-serviceWorkerRegistration.unregister()
+serviceWorkerRegistration.register()
