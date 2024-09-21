@@ -36,9 +36,9 @@ const InstallButton = () => {
         }
     };
 
-    // if (!showInstallButton) {
-    //     return null;
-    // }
+    if (!showInstallButton) {
+        return null;
+    }
 
     return (
         <button
