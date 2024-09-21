@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/benyamin-mashkoorzadeh.github.io/weather-app/static/css/main.e629f725.css",
-    "main.js": "/benyamin-mashkoorzadeh.github.io/weather-app/static/js/main.5edb6749.js",
-    "service-worker.js": "/benyamin-mashkoorzadeh.github.io/weather-app/service-worker.js",
-    "index.html": "/benyamin-mashkoorzadeh.github.io/weather-app/index.html",
-    "main.e629f725.css.map": "/benyamin-mashkoorzadeh.github.io/weather-app/static/css/main.e629f725.css.map",
-    "main.5edb6749.js.map": "/benyamin-mashkoorzadeh.github.io/weather-app/static/js/main.5edb6749.js.map"
+    "main.css": "/weather-app/static/css/main.e629f725.css",
+    "main.js": "/weather-app/static/js/main.aaac897f.js",
+    "service-worker.js": "/weather-app/service-worker.js",
+    "index.html": "/weather-app/index.html",
+    "main.e629f725.css.map": "/weather-app/static/css/main.e629f725.css.map",
+    "main.aaac897f.js.map": "/weather-app/static/js/main.aaac897f.js.map"
   },
   "entrypoints": [
     "static/css/main.e629f725.css",
-    "static/js/main.5edb6749.js"
+    "static/js/main.aaac897f.js"
   ]
 }
