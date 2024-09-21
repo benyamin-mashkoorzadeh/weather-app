@@ -9,7 +9,7 @@ body,
 }
 
 .main-container {
-    background-image: url("/images/bg.jpeg");
+    background: url('../public/images/bg.jpeg');
     background-size: cover;
     background-position: center;
 }
