@@ -8,9 +8,7 @@ import './App.css'
 const root = createRoot(document.getElementById('root'))
 
 root.render(
-    <StrictMode>
-        <App />
-    </StrictMode>
+    <App basename="weather-app"/>
 )
 
 serviceWorkerRegistration.register()
