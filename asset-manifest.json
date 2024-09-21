@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/benyamin-mashkoorzadeh.github.io/weather-app/static/css/main.e629f725.css",
+    "main.js": "/benyamin-mashkoorzadeh.github.io/weather-app/static/js/main.43be93a2.js",
+    "service-worker.js": "/benyamin-mashkoorzadeh.github.io/weather-app/service-worker.js",
+    "index.html": "/benyamin-mashkoorzadeh.github.io/weather-app/index.html",
+    "main.e629f725.css.map": "/benyamin-mashkoorzadeh.github.io/weather-app/static/css/main.e629f725.css.map",
+    "main.43be93a2.js.map": "/benyamin-mashkoorzadeh.github.io/weather-app/static/js/main.43be93a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e629f725.css",
+    "static/js/main.43be93a2.js"
+  ]
+}
